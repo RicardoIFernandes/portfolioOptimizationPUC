@@ -1,0 +1,2 @@
+[2025-04-13 10:40:31,471] INFO _log() L225  192.168.1.209 - - [13/Apr/2025 10:40:31] "[36mGET /openapi/static/js/swagger-ui-standalone-preset.js HTTP/1.1[0m" 304 - - call_trace=/Users/ricardofernandes/anaconda3/envs/meu_app/lib/python3.9/site-packages/werkzeug/_internal.py L225 
+[2025-04-13 10:40:31,511] INFO _log() L225  192.168.1.209 - - [13/Apr/2025 10:40:31] "GET /openapi/openapi.json HTTP/1.1" 200 - - call_trace=/Users/ricardofernandes/anaconda3/envs/meu_app/lib/python3.9/site-packages/werkzeug/_internal.py L225 
